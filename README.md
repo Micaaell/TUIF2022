@@ -1,6 +1,6 @@
 # Infoweb Turma 2022 - FLA Game
 
-## Objetivo
+## Sobre o jogo
 - Repositório dos Jogos Eletrônicos produzidos na disciplina de FLA de Infoweb Turma 2022
 
 ## Tecnologias
